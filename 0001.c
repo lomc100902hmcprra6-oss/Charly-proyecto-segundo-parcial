@@ -1,6 +1,7 @@
 #include<stdio.h>
 main()
 {
+    //Te ayuda a saber el promedio de un alumno//
     float Calificacion1;
     float Calificacion2;
     float Calificacion3;
@@ -25,3 +26,4 @@ main()
         printf("Estas reprobado");
     }
 }
+
