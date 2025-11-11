@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+  //Te dice si alguien es mayor de edad//
 int AN;
 int AA;
 int Edad;
@@ -14,3 +15,4 @@ Edad = (AA-AN);
 
 printf("Tu edad es de: %d", Edad);
 }
+
