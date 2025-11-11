@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+  //Te da el area y volumen de un circulo//
 float Radio;
 float Altura;
 float Pi;
@@ -21,3 +22,4 @@ Volumen = (Pi*(Radio*Radio)*Altura);
 printf("El area es de: %.2f \n", Area);
 printf("El volumen es de: %.2f \n", Volumen);
 }
+
