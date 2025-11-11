@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+    //Convierte unidades//
     float Valor;
     float Resultado;
 
@@ -8,3 +9,4 @@ main(){
     Resultado= Valor/1.609;
     printf("Tu resultado es de: %f", Resultado);
 }
+
