@@ -1,5 +1,6 @@
 #include<stdio.h>
 main(){
+  //te dice si un alumno esta excento//
 float Calificacion1;
 float Calificacion2;
 float Calificacion3;
@@ -24,3 +25,4 @@ printf("Estas excento \n");
 printf("Haras ordinario \n");
 }
 }
+
