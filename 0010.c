@@ -1,5 +1,6 @@
 #include<stdio.h>
 main()
+//te dice la marca, año y modelo//
 {
     int Modelo;
     int Marca;
@@ -17,3 +18,4 @@ main()
     Coche = Marca+Modelo+Ano;
     printf("Tu coche es: %d", Coche);
 }
+
