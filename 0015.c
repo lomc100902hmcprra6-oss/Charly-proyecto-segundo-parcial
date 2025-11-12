@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice si un numero es mayor o igual a 0//
 main()
 {
     float Numero;
@@ -15,3 +16,4 @@ main()
         printf("El numero es mayor a 0 \n");
     }
 }
+
