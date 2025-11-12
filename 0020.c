@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Da el area de un rectangulo//
 main(){
 float base;
 float altura;
@@ -18,3 +19,4 @@ printf("El perimetro es de: %.2f \n", perimetro);
 printf("El area es de: %.2f \n", area);
 
 }
+
