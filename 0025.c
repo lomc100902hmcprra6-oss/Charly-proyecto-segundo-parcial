@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Ecuacion de primer grado///
 main(){
 
 float a;
@@ -27,3 +28,4 @@ x = -b/a;
 printf("El valor de x es: %.2f", x);
 }
 }
+
