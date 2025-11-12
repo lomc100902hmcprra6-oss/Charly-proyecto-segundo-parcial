@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Suma tres numeros//
 main(){
 int Numero1;
 int Numero2;
@@ -18,3 +20,4 @@ Resultado = Numero1+Numero2+Numero3;
 printf("El resultado es: %d \n",Resultado);
 
 }
+
