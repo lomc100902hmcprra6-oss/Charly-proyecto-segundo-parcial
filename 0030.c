@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice la medida de un terreno//
 main(){
 float M2;
 float Resultado;
@@ -10,3 +11,4 @@ Resultado = (1500.00*M2);
 
 printf("El precio es de: %.2f", Resultado);
 }
+
