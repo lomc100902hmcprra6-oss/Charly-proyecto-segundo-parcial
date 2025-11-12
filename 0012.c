@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Indica el mes del año//
 main(){
 int mes;
 
@@ -61,3 +63,4 @@ int mes;
         break;
     }
 }
+
