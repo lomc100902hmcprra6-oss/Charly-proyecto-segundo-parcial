@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Da el cuadrado//
 main(){
     float Numero;
     float Resultado;
@@ -7,3 +8,4 @@ scanf("%f", &Numero);
 Resultado= Numero*Numero;
 printf("El cuadrado de tu numero es: %f \n", Resultado);
 }
+
