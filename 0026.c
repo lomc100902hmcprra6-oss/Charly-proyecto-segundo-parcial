@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+//Ecuacion de segundo grado//
 main(){
 
 float a;
@@ -47,3 +48,4 @@ if (a == 0) {
         }
     }
 }
+
