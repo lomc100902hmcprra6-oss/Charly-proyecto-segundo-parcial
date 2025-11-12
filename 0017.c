@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Dael cambio de un articulo//
 main(){
 float precio;
 float dinero;
@@ -14,3 +15,4 @@ cambio = dinero-precio;
 
 printf("El cambio es de: %.2f  \n", cambio);
 }
+
