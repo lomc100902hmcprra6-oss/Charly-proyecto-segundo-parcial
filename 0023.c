@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Te hace un descuento//
 main()
 {
     float Largo;
@@ -24,3 +26,4 @@ main()
     printf("El costo total es de: $%.2f", Costo);
 
 }
+
