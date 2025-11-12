@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Te dice si el resultado de una suma es menor a 0//
 main()
 {
     float Numero1;
@@ -23,3 +24,4 @@ main()
         printf("La suma es menor a 0 \n");
     }
 }
+
