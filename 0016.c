@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Sum trs numero o los multiplica//
 main()
 {
     int Numero1;
@@ -36,3 +37,4 @@ main()
         break;
     }
 }
+
