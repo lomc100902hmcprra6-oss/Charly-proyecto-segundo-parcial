@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Suma tres numeros//
 main(){
 float N1;
 float N2;
@@ -18,3 +20,4 @@ Resultado = N1*N2*N3;
 
 printf("El resultado es: %.2f", Resultado);
 }
+
