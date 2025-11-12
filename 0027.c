@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Te da el area de un tirangulo//
 main(){
 float altura;
 float base;
@@ -12,3 +14,4 @@ scanf("%f",&base);
 area = (base*altura) / 2;
 printf("El area del triangulo es: %.2f \n", area);
 }
+
