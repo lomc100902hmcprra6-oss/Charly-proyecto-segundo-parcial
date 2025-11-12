@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Te dice que tipo de triangulo//
 main(){
 float Lado1;
 float Lado2;
@@ -26,3 +28,4 @@ else{
 
 }
 }
+
