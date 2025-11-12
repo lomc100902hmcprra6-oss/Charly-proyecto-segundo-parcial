@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Da el promedio de 5 calificaciones//
 main(){
 float Cal1;
 float Cal2;
@@ -22,3 +23,4 @@ Promedio = (Cal1+Cal2+Cal3+Cal4+Cal5)/5;
 
 printf("Tu promedio es de: %.2f", Promedio);
 }
+
