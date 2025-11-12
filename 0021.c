@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//Te dice el dia de la semana//
 main()
 {
     int Dia;
@@ -41,3 +43,4 @@ main()
         break;
     }
 }
+
