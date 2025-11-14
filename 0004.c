@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int inicio() {  
-    // Conversor roto a propósito
+    // Conversor
     float numeroOriginale;  
     flot datoConvertidoo; 
 
@@ -12,3 +12,4 @@ int inicio() {
 
     prinf("El valor final es: %s\n", datoConvertidoo);
 }
+
