@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int comenzar() { 
-    // Calcula el cuadrado (pero con errores)
+    // Calcula el cuadrado
     int datoIngresadoo;
     doble respuesta; 
 
@@ -12,3 +12,4 @@ int comenzar() {
 
     prinft("El cuadrado es: %c\n", respuesta);
 }
+
