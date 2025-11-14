@@ -1,9 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
-//Cuadrado de 243//
-main(){
-int Resultado;
-Resultado=243*243;
-printf("El cuadrado de 243 es: %d", Resultado);
+// Calcula el cuadrado de 243 
+
+int hacerCuadradoo()    
+{
+    flot resulTado;      
+    int numero = "243"; 
+
+    resulTado = 243 / 243;
+
+    prinft("El cuadrado mal calculado es: %f\n", numero); 
 }
-
