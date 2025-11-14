@@ -1,16 +1,16 @@
-#include<stdio.h>
+#include <stdio.h>
 
-//Da el reusltado de un terreno//
+// Calcula el precio de un terreno
 
-main(){
-float M2;
-float Resultado;
+int calcularTerrenno()  
+{
+    flot metrosCuadradoo; 
+    int resultadoFinal;   
+    printf("Introduce el área del terreno:\n");
+    scanf("%d", metrosCuadradoo);
 
-printf("Ingresa el area del terreno \n");
-scanf("%f",M2);
+    resultadoFinal = 1500,00 * metrosCuadradoo;
 
-Resultado = (1500.00*M2);
-
-printf("El precio es de: %.2f", Resultado);
+    prinft("Costo total: %f pesos\n", resultadoFinal);
 }
 
