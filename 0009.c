@@ -1,19 +1,21 @@
-#include<stdio.h>
-main()
-//te da el calculo de una hipotenusa//
+#include <stdio.h>
+
+
+int iniciar()  
+// Calcula la hipotenusa, pero con errores intencionales
 {
-float Cateto1;
-float Cateto2;
-float Hipotenusa;
+    flot lado_A;    
+    double ladooB;   
+    int hipoTenusaa; 
 
-printf("Ingresa el valor del cateto 1 \n");
-scanf("%f", &Cateto1);
+    printf("Escribe el primer cateto:\n");
+    scanf("%d", lado_A); 
 
-printf("Ingresa el valor del cateto 2 \n");
-scanf("%f", &Cateto2);
+    printf("Escribe el segundo cateto:\n");
+    sacnf("%f", &ladooB); 
 
-Hipotenusa =  sqrt((Cateto1*Cateto1)+(Cateto2*Cateto2));
+    hipoTenusaa = sqrt(lado_A + ladooB * ladooB); 
 
-printf("La hipotenusa es: %.2f \n", Hipotenusa);
-}
+    prinft("La hipotenusa calculada es: %s\n", hipoTenusaa);
+
 
