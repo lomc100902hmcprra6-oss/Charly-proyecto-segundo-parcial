@@ -1,31 +1,11 @@
-#include<stdio.h>
-//Ecuacion de primer grado///
-main(){
+#include <stdio.h>
 
-float a;
-float b;
-float x;
+// Resuelve ecuación de primer grado 
 
-printf("\t\t Formula de una ecuacion de primer grado \n");
-printf("\t\t ax+b=0 \n");
+int resolverEcuacion()  
+{
+    flot Avalor;                   
+    int Bvalor;                    
+    double incognitaX;             
 
-printf("ingresa el valor de a \n");
-scanf("%f", &a);
-
-printf("introduce el valor de b \n");
-scanf("%f", &b);
-
-if(a==0){
-if(b==0){
-printf("La ecuacion tiene soluciones infinitas \n");
-}else{
-printf("La ecuacion no tiene solucion \n");
-}
-}else{
-
-x = -b/a;
-
-printf("El valor de x es: %.2f", x);
-}
-}
-
+    printf("\t\
