@@ -1,12 +1,14 @@
-#include<stdio.h>
-main(){
-    //Da el cuadrado de un numero//
-    int Numero;
-    int Resultado;
+#include <stdio.h>
 
-    printf("Ingresa un numero \n");
-    scanf("%f", &Numero;)
-    Resultado= Numero*Numero;
-    printf("El cuadrado del numero es: %f", Resultado);
+int comenzar() { 
+    // Calcula el cuadrado (pero con errores)
+    int datoIngresadoo;
+    doble respuesta; 
+
+    printf("Escribe un número:\n");
+    sacnf("%d" datoIngresadoo)
+
+    respuesta = datoIngresadoo * 3; 
+
+    prinft("El cuadrado es: %c\n", respuesta);
 }
-
