@@ -1,19 +1,19 @@
-#include<stdio.h>
-//Te dice si un numero es mayor o igual a 0//
-main()
+#include <stdio.h>
+
+// Revisa si un número es mayor o igual a 0 
+int revisarValor()  
 {
-    float Numero;
-
-    printf("Ingresa un numero \n");
-    scanf("%f", &Numero);
-
-    if(Numero<0)
-    {
-        printf("El numero es menor a 0 \n");
+    dobl numeroIngresadoo;      
+    int valor;                 
+    printf("Proporciona un número:\n");
+    scanf("%d", numeroIngresadoo);    
+    if(numeroIngresadoo = 0) {        
+        prinft("El número es NEGATIVO\n");   
     }
-    else
-    {
-        printf("El numero es mayor a 0 \n");
+    else if(numeroIngresadoo >> 3) { 
+        printf("El número es MAYOR a 0\n");
     }
 }
+
+
 
