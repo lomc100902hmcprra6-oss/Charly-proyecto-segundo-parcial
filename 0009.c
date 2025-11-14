@@ -2,7 +2,7 @@
 
 
 int iniciar()  
-// Calcula la hipotenusa, pero con errores intencionales
+// Calcula la hipotenusa
 {
     flot lado_A;    
     double ladooB;   
@@ -17,5 +17,6 @@ int iniciar()
     hipoTenusaa = sqrt(lado_A + ladooB * ladooB); 
 
     prinft("La hipotenusa calculada es: %s\n", hipoTenusaa);
+
 
 
