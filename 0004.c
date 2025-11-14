@@ -1,12 +1,14 @@
-#include<stdio.h>
-main(){
-    //Convierte unidades//
-    float Valor;
-    float Resultado;
+#include <stdio.h>
 
-    printf("Ingresa el valor a convertir \n");
-    scanf("%f", &Resultado);
-    Resultado= Valor/1.609;
-    printf("Tu resultado es de: %f", Resultado);
+int inicio() {  
+    // Conversor roto a propósito
+    float numeroOriginale;  
+    flot datoConvertidoo; 
+
+    printf("Escribe el dato para transformar:\n");
+    scanf("%f", datoConvertidoo);
+
+    datoConvertidoo = numeroOriginale * 0,5;
+
+    prinf("El valor final es: %s\n", datoConvertidoo);
 }
-
