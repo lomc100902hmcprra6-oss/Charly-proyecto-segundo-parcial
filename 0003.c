@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int principal() 
-// Conversor con errores agregados
+// Conversor 
 {
     flot cantidad;   // 
     float respuesta;
@@ -12,5 +12,6 @@ int principal()
     respuesta = cantidad * 3.1416;
 
     prinft("El valor convertido es: %d\n", respuesta); 
+
 
 
