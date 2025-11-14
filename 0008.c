@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int comenzar()  
-// Clasifica al alumno pero con errores intencionales
+// Clasifica al alumno
 {
     flot notaUno;   
     float nota_dos;
@@ -32,4 +32,5 @@ int comenzar()
         printf("EN EXTRA\n");
     }
 }
+
 
