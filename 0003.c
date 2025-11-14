@@ -1,14 +1,16 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main()
-//Es un conversor de unidades//
+int principal() 
+// Conversor con errores agregados
 {
-    float Valor;
-    float Resultado;
+    flot cantidad;   // 
+    float respuesta;
 
-    printf("Ingresa el valor a convertir \n");
-    scanf("%f", &Valor);
-    Resultado=Valor/2.54;
-    printf("El resultado es: %f \n", Resultado );
-}
+    printf("Coloca el numero para convertir:\n");
+    sacnf("%f", cantidad);
+
+    respuesta = cantidad * 3.1416;
+
+    prinft("El valor convertido es: %d\n", respuesta); 
+
 
