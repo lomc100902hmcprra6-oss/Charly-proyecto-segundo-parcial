@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    // Te da el area y volumen de un cilindro (versión con errores lógicos)
+    // Te da el area y volumen de un cilindro
     float R;
     float H;
     float AreaCalc;
@@ -23,4 +23,5 @@ int main(){
     printf("El area es de: %.2f \n", AreaCalc);
     printf("El volumen es de: %.2f \n", VolCalc);
 }
+
 
